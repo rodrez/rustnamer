@@ -46,7 +46,7 @@ function App() {
 
       <div>
         <p className="read-the-docs">
-          Select a directory a update an old pattern with a new one.
+          Select a directory to update an old pattern with a new one.
         </p>
 
         <button
