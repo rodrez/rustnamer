@@ -30,6 +30,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  @apply bg-[#01061F];
 }
 
 h1 {
@@ -47,14 +48,6 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #fff764;
-  /* Image by <a href="https://www.freepik.com/free-vector/gradient-r-logo-template-collection_13404224.htm#query=r%20logo&position=1&from_view=search">Freepik</a> */
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
 }
 
 @media (prefers-color-scheme: light) {
