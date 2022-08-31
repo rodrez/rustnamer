@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/public/RustnamerProduct.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/rodrez/rustnamer/blob/main/public/RustnamerProduct.png)
 
 Rustnamer is a simple project that was created due to a personal need. I know, I know there's is probably a thousand renamers out there. But... I'm starting to learn Rust and I wanted to build something useful with it. Since a renamer should be simple enough (and I need one), I decided to build a simple renamer GUI with Rust and Tauri, and it looks pretty awesome.
 
