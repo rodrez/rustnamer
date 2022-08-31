@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/rodrez/rustnamer/blob/main/public/RustnamerProduct.png)
+[![Rustnamer Screen Shot][product-screenshot]](https://github.com/rodrez/rustnamer)
 
 Rustnamer is a simple project that was created due to a personal need. I know, I know there's is probably a thousand renamers out there. But... I'm starting to learn Rust and I wanted to build something useful with it. Since a renamer should be simple enough (and I need one), I decided to build a simple renamer GUI with Rust and Tauri, and it looks pretty awesome.
 
@@ -227,11 +227,10 @@ Project Link: [https://github.com/rodrez/rustnamer](https://github.com/rodrez/ru
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Awesome resources I've used for this project!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 * [Zero To Mastery](https://zerotomastery.io/)
 * [Zero 2 Prod](https://www.zero2prod.com/)
 
@@ -252,8 +251,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/rodrez/rustnamer.svg?style=flat
 [license-url]: https://github.com/rodrez/rustnamer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/f-rodrez/
+[product-screenshot]: public/RustnamerProduct.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
