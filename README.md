@@ -126,6 +126,12 @@ You will need npm in order to play around with Rustnamer source code.
   ```sh
   npm install npm@latest -g
   ```
+* rust
+  ```sh
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  ```
+
+  > Rust installation url: https://www.rust-lang.org/tools/install 
 
 ### Installation
 
@@ -133,13 +139,13 @@ Rustnamer has very little dependencies.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rodrez/rustnamer.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Start your Rustnamer app
+3. Start your copy of Rustnamer
    ```sh
    npm run tauri dev
    ```
@@ -174,9 +180,8 @@ Remember, Rustnamer is dead simple. To bulk rename files follow the steps below:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add Changelog
-- [ ] Add back to top links
-- [ ] Add Additional Templates w/ Examples
+- [X] Add Changelog
+- [ ] Add Files View 
 - [ ] Multi-language Support
     - [ ] Spanish
 
