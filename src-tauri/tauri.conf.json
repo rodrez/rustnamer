@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "rustnamer",
+    "productName": "Rustnamer",
     "version": "0.1.0"
   },
   "tauri": {
