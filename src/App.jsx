@@ -101,7 +101,7 @@ function App() {
             htmlFor="old_pattern"
             className="block mb-2 text-lg font-medium text-gray-900 dark:text-gray-300"
           >
-            Old Pattern
+            Replace
           </label>
           <input
             id="old_pattern"
@@ -116,7 +116,7 @@ function App() {
             htmlFor="new_pattern"
             className="block mb-2 text-lg font-medium text-gray-900 dark:text-gray-300"
           >
-            New Pattern
+            With
           </label>
           <input
             id="new_pattern"

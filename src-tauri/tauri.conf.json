@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "Rustnamer",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "tauri": {
     "allowlist": {
@@ -16,7 +16,7 @@
     },
     "bundle": {
       "active": true,
-      "category": "DeveloperTool",
+      "category": "Utility",
       "copyright": "",
       "deb": {
         "depends": []

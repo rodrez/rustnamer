@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.0.3
+
+### Added or Changed
+
+- Adjusted text to use `Replace` instead of `Old Pattern` and
+`With` instead of `New Pattern`
+- Fix small version badge UI issue
+
 ## v0.0.2
 
 ### Added or Changed
