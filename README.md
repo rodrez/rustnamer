@@ -84,8 +84,8 @@
 ## About The Project
 
 <p align="center">
-  <img src="/public/RustnamerProduct1.png" width="420" />
-  <img src="/public/RustnamerProduct2.png" width="420" /> 
+  <img src="/public/RustnamerProduct1.png" width="400" />
+  <img src="/public/RustnamerProduct2.png" width="400" /> 
 
 </p>
 
