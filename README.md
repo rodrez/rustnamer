@@ -37,7 +37,7 @@
   <h3 align="center">RUSTNAMER</h3>
 
   <p align="center">
-    A file bulk renamer that goes straight to the point.
+    Rename multiple files at once! A file bulk renamer that goes straight to the point.
     <br />
     <a href="https://github.com/rodrez/rustnamer"><strong>Explore the docs »</strong></a>
     <br />
