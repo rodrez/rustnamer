@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.0.2
+
+### Added or Changed
+
+- Added ability drop folder (kept the click to select folder button)
+- Added file viewer (only show last 9 files)
+- Added `installables` directory which has a ready to install version
+
 ## v0.0.1
 
 ### Added or Changed

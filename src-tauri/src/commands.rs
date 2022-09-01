@@ -15,3 +15,16 @@ pub fn bulk_rename(directory: &str, old_pattern: &str, new_pattern: &str) -> Str
 
     "Completed!".to_string()
 }
+
+#[command]
+pub fn get_all_files(directory: &str) -> Vec<String> {
+    let paths = fs::read_dir(directory).unwrap();
+    let mut paths_array = Vec::new();
+
+    for path in paths {
+        let path = path.unwrap();
+        paths_array.push(path.file_name().into_string().unwrap());
+    }
+
+    paths_array
+}

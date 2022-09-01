@@ -83,9 +83,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Rustnamer Screen Shot][product-screenshot]](https://github.com/rodrez/rustnamer)
+<p align="center">
+  <img src="/public/RustnamerProduct1.png" width="420" />
+  <img src="/public/RustnamerProduct2.png" width="420" /> 
 
-Rustnamer is a simple project that was created due to a personal need. I know, I know there's is probably a thousand renamers out there. But... I'm starting to learn Rust and I wanted to build something useful with it. Since a renamer should be simple enough (and I need one), I decided to build a simple renamer GUI with Rust and Tauri, and it looks pretty awesome.
+</p>
 
 Here's why:
 * No BS
@@ -181,7 +183,7 @@ Remember, Rustnamer is dead simple. To bulk rename files follow the steps below:
 ## Roadmap
 
 - [X] Add Changelog
-- [ ] Add Files View 
+- [X] Add Files View 
 - [ ] Multi-language Support
     - [ ] Spanish
 
@@ -257,7 +259,8 @@ Awesome resources I've used for this project!
 [license-url]: https://github.com/rodrez/rustnamer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/f-rodrez/
-[product-screenshot]: public/RustnamerProduct.png
+[product-screenshot-1]: public/RustnamerProduct1.png
+[product-screenshot-2]: public/RustnamerProduct2.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
